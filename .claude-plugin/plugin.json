@@ -1,0 +1,18 @@
+{
+  "name": "novel-craft",
+  "version": "0.1.0",
+  "description": "长篇小说写作与审稿 plugin。提供从项目初始化、章节写作、写后同步到多角色审稿的完整闭环。题材中性，用项目级 RTK.md 注入气质——校园青春、悬疑、武侠、科幻、历史、都市等长篇均可。",
+  "author": {
+    "name": "chaser"
+  },
+  "license": "MIT",
+  "keywords": [
+    "novel",
+    "writing",
+    "long-form",
+    "chinese-novel",
+    "editorial",
+    "review",
+    "agent-skills"
+  ]
+}
