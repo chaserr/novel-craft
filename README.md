@@ -148,6 +148,10 @@ ln -sf <NOVEL_CRAFT_PATH>/agents/novel-*.md ~/.claude/agents/
       <img src="./assets/donate-wechat.jpg" alt="微信支付" width="240"><br/>
       <sub><b>微信支付</b></sub>
     </td>
+    <td align="center">
+      <img src="./assets/donate-solana.png" alt="Solana" width="240"><br/>
+      <sub><b>Solana（SOL / SPL 资产）</b></sub>
+    </td>
   </tr>
 </table>
 
