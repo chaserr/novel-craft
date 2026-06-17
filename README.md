@@ -133,3 +133,33 @@ ln -sf <NOVEL_CRAFT_PATH>/agents/novel-*.md ~/.claude/agents/
 3. **写作即同步**：写完一章必须同步更新四类资料文件，否则下一章会基于过时上下文。`novel-sync` 把这个动作固化。
 4. **单一职责 agent**：每个 agent 只做一件事，输出结构化报告。复杂任务由 skill 编排多 agent 协同。
 5. **不替代作者判断**：所有 agent 只提建议、不擅自重写；冲突建议会同时呈现，让作者裁决。
+
+## 支持一下
+
+如果这个 plugin 帮到了你的写作，欢迎请我喝一杯咖啡，让 novel-craft 继续迭代下去 ☕
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/donate-alipay.jpg" alt="支付宝" width="240"><br/>
+      <sub><b>支付宝</b></sub>
+    </td>
+    <td align="center">
+      <img src="./assets/donate-wechat.jpg" alt="微信支付" width="240"><br/>
+      <sub><b>微信支付</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 加入交流群
+
+写长篇的路上不孤单，欢迎加入「AI 网文沟通群」一起讨论 AI 辅助写作、互相交流写作经验。
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/wechat-group.png" alt="微信群" width="240"><br/>
+      <sub><b>微信群（二维码会定期更新，如失效请提 issue 联系）</b></sub>
+    </td>
+  </tr>
+</table>
