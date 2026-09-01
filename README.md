@@ -4,6 +4,8 @@
 
 📖 **完整使用指南**：[GUIDE.md](./GUIDE.md)（从 0 到 1 上手 + 工作流 + Skill/Agent 详解 + 常见陷阱 + FAQ）
 
+> 🖥️ **想要开箱即用的桌面版？** 试试 **[Orchid（novel-craft-studio）](https://github.com/chaserr/novel-craft-studio)** —— 同一套写作流程的桌面 GUI，Mac / Windows 打开就能用，三栏 IDE 布局（资料面板 / 章节编辑器 / LLM Chat），支持 DeepSeek / Claude / OpenAI 自由切换，复用 novel-craft 的模板与 RTK 注入。[下载最新版 →](https://github.com/chaserr/novel-craft-studio/releases/latest)
+
 ## 心智模型
 
 ```
