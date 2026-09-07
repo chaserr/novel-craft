@@ -9,6 +9,8 @@ allowed-tools: "Read, Write, Edit, Bash, AskUserQuestion"
 
 **用途**：为一个新长篇小说项目搭建标准目录与核心资料骨架。后续 `novel-write` / `novel-sync` / `novel-review` 都依赖这里产出的文件。
 
+> **建议先跑 `novel-plan`**：在初始化之前，先用 `novel-plan` 做顶层立项（核心钩子 / 设定 / 升级套路 / **最终结局** / 分卷大纲 / 写作思路 + 设定压测）。把"这本书的骨架和结局"想清楚，再来 `novel-init` 搭目录、把立项产物填进模板。跳过立项直接 init，容易开局设定不牢、后期烂尾。
+
 ## 先决条件
 
 - 在小说项目目录（或希望成为项目根的目录）下运行。
